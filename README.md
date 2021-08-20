@@ -1,5 +1,5 @@
 # Movies-ETL
-UCB Challenge: Extract, transform and load data from datasets (from  different sources) to an existing database.
+UCB Challenge: Extract, transform and load data from datasets (from  different sources) to an existing database in PostgresSQL
 
 # Overview of the Analysis
 
