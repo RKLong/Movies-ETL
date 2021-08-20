@@ -1,5 +1,5 @@
 # Movies-ETL
-UCB Challenge: Perform the Extract, Transform and Load process 
+UCB Challenge: Extract, transform and load data from datasets (from  different sources) to an existing database.
 
 # Overview of the Analysis
 
